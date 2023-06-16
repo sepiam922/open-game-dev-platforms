@@ -1,0 +1,40 @@
+# Open Game Development Platforms
+
+This repository is a collection of open game development platforms that provide frameworks, tools, and resources for creating games. Whether you are an experienced game developer or just getting started, these platforms offer a range of features and capabilities to help you bring your game ideas to life. The repository includes open-source projects that support various programming languages and game genres.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Included Platforms](#included-platforms)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Game development has become more accessible than ever with the emergence of open game development platforms. These platforms provide the necessary tools and frameworks to streamline the game creation process, enabling developers to focus on the creative aspects of their games. This repository aims to provide a curated list of open platforms that empower game developers and foster collaboration within the game development community.
+
+## Included Platforms
+
+This repository includes the following open game development platforms:
+
+- Unity: A popular cross-platform game engine with a vast ecosystem and support for various programming languages.
+- Godot: A lightweight and feature-rich game engine suitable for 2D and 3D game development.
+- Phaser: A fast and flexible JavaScript framework for creating browser-based games.
+- Unreal Engine: A powerful game engine known for its high-quality graphics and visual scripting system.
+- Love2D: A lightweight framework for creating 2D games using the Lua programming language.
+
+Each platform directory contains relevant documentation, examples, and resources specific to that platform. Feel free to explore each directory to find more information about a particular platform.
+
+## Installation
+
+For installation instructions and requirements for each platform, please refer to the respective directories. You will find detailed installation guides and any specific dependencies needed to set up the platforms on your development environment.
+
+## Usage
+
+Once you have installed the desired platform, you can start exploring the provided documentation, tutorials, and examples to learn how to create games using the platform. Each platform offers unique features and workflows, so make sure to familiarize yourself with the platform's documentation to make the most of its capabilities.
+
+## Contributing
+
+Contributions are welcome to improve
