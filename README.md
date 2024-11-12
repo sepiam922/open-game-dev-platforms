@@ -1,7 +1,7 @@
 # Open Game Development Platforms
 
 ## Overview
-This project is dedicated to providing an open-source platform for game developers, enabling them to create, collaborate, and share games without licensing restrictions. Our goal is to empower developers by giving them the tools and freedom to bring their creative visions to life.
+This project is dedicated to providing an open-source platform for game developers, enabling them to create collaborate, and share games without licensing restrictions. Our goal is to empower developers by giving them the tools and freedom to bring their creative visions to life.
 
 ## Features
 - **Modular Game Engine**: A flexible and lightweight game engine supporting 2D and 3D development.
